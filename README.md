@@ -38,5 +38,5 @@ module.exports = withNextein({
 
 The `options` object can define the following properties:
 
-- wordsPerMinute: `{Integer}. Default: 130`. Calculate the words per minute ratio.
+- wordsPerMinute: `{Integer}. Default: 200`. Calculate the words per minute ratio.
 
